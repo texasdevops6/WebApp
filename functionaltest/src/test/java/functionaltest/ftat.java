@@ -15,6 +15,7 @@ public class ftat {
 	
 	public HtmlUnitDriver driver;
 	//public WebDriver driver;
+	//public WebDriver driver;
 	public WebDriverWait wait;
 	
 	//public String URL = "http://52.170.153.128/:8080/QAWebapp/";
