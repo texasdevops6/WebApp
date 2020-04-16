@@ -215,7 +215,7 @@ The Marslander Help Desk, can assist with issues and concerns regarding:
    <p class="text-center">
    <span id="fullyear">2017</span>
    &#169; DEVOPS UNION. All Rights Reserved.<br>
-   | India | Singapore | Belgium | USA |
+   | India | Singapore | Belgium |AUS| USA |
   </p>
  </body>
  </html>
