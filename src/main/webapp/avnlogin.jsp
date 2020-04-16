@@ -196,7 +196,7 @@ The Marslander Help Desk, can assist with issues and concerns regarding:
 </li><br>
  Wholesale Customer Care:
 <br>
- 333-333-3333 or 555-555-5555 or 999-999-999
+ 333-333-3333 or 555-555-5555
 </p>
 </section>
 <div class="module form-module">
